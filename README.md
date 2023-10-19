@@ -21,6 +21,10 @@ curl host_ip:svc_port/admins
 curl host_ip:svc_port/users
 curl host_ip:svc_port/
 ```
+## 本地指标数据查询
+```
+curl host_ip:svc_port/metrics
+```
 
 ## prometheus查询监控记录
 
